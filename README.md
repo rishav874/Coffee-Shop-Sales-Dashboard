@@ -28,7 +28,6 @@
       **Charts and Graphs**: Interactive visual elements for easy data interpretation.
       **Filters**: Options to filter data by date range, product category, or customer type for detailed analysis.
       **Sales Growth Rate**: Percentage increase in sales compared to previous periods.
-
-    
-    6. **User Interaction**
+  
+  6. **User Interaction**
      **Dynamic Date Range Selection**: Allows users to customize the timeframe for analysis. 
